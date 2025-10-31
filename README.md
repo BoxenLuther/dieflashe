@@ -1,9 +1,12 @@
 # DieFlashe
+
 Flashtool für Geräte von FRITZ! aka AVM.
 
 DieFlashe ist unabhängig von FRITZ! aka AVM.
 
 Wenn das Programm gefällt würde ich mich über eine Donation freuen.
+
+[![DieFlashe](PREVIEW.gif "DieFlashe")](SCREENSHOT.gif)
 
 ### Haftungsausschluss
 Es gibt keine Garantie, Gewährleistung oder Haftung jeglicher Art.

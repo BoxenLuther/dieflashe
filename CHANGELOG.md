@@ -1,6 +1,6 @@
 # Changelog
 
-### 1.2605.0.0 - ???
+### 1.2605.0.0 - 2025-12-07
  - Flashen von Cable-Geräten mit Docsis 3.0
  - Kolorierte und übersetzte MessageBoxen hinzugefügt
  - Neuer Link zum Datenverzeichnis im Startmenü
@@ -17,4 +17,5 @@
 
 ### 1.2600.0.0 - 2025-10-29
  - Erstveröffentlichung der DieFlashe
+
 
